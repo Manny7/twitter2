@@ -1,5 +1,5 @@
 <?php
-$username = 'RadekDuda';//lx
+$username = 'RadekDuda';//lxxxxx
 $password = 'muhehe2';
 
         $url = 'http://twitter.com/statuses/update.xml';
